@@ -1,5 +1,5 @@
 [project]
-name = "password-strength-meter"
+name = "Password_Generator_Strength_Meter"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
