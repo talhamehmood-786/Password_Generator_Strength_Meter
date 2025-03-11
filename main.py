@@ -13,8 +13,8 @@ st.set_page_config(
     menu_items={
         'About': """
         ## Password Generator
-        This app is made by Osama bin Adnan.
-        Source code is available on [GitHub](https://github.com/OsamabinAdnan/).
+        This app is made by Talha Mehmood.
+        Source code is available on [GitHub](https://github.com/talhamehmood-786).
         """
     }
 )
@@ -188,4 +188,4 @@ with tab2:
 
 # 🔹 Footer
 st.markdown("---")
-st.markdown("👨‍💻 Built with ❤️ by [Osama bin Adnan](https://github.com/OsamabinAdnan)")
+st.markdown("👨‍💻 Built with ❤️ by [Talha Mehmood](https://github.com/talhamehmood-786)")
